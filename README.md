@@ -1,1 +1,1 @@
-Este repositório é dedicado ao desenvolvimento de soluções de inteligência artificial 🧠🤖
+Este repositório é dedicado a projetos de soluções de inteligência artificial 🧠🤖
