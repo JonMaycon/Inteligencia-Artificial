@@ -11,3 +11,5 @@ Avaliação e Ajustes: Iterar para melhorar a performance do modelo na tarefa es
 interface padrão para interagir com muitos LLMs diferentes. Para ser específico, essa interface é uma que recebe como entrada uma 
 string e retorna uma string. Eistem muitos provedores de LLM (OpenAI, Cohere, Hugging Face, etc.) - a LLMclasse foi projetada para 
 fornecer uma interface padrão para todos eles.
+
+🔍 Output Parsers são componentes essenciais que interpretam e processam os resultados gerados por um contrato inteligente (💼 smart contract) na blockchain. Eles são responsáveis por extrair e formatar as informações relevantes dos eventos 📅 e transações 🔄 que ocorrem na rede blockchain, tornando esses dados compreensíveis 📊 e utilizáveis para aplicações externas ou usuários finais. Esses parsers geralmente transformam os dados brutos da blockchain 🧱 em formatos mais legíveis 📄 e estruturados, facilitando assim a integração 🔗 e análise dessas informações em sistemas externos.
